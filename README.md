@@ -1,4 +1,4 @@
-# SBLD25 - Computational Drug Discovery
+# SBLD26 - Computational Drug Discovery
 
 This repository contains teaching materials and code examples for the Computational Drug Discovery course, aimed at master's students. The course covers fundamental concepts and practical applications in computer-aided drug design.
 
@@ -6,12 +6,12 @@ This repository contains teaching materials and code examples for the Computatio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/brunocuevas/UPM-SBLD-25.git
+git clone https://github.com/brunocuevas/UPM-SBLD-26.git
 ```
 
 2. Install dependencies:
 ```bash
-cd sbld25
+cd UPM-SBLD-26
 uv init
 uv add .
 ```
