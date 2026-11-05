@@ -1,0 +1,375 @@
+# Name: GEN
+# Created by ModelServer 0.9.13
+
+# model_server_result.job_id: 1LsCQm7afPRBEBTrF4Nz2g
+# model_server_result.datetime_utc: 2026-11-05 12:46:47
+# model_server_result.server_version: 0.9.13
+# model_server_result.query_name: ligand
+# model_server_result.source_id: pdb-bcif
+# model_server_result.entry_id: 1x7j
+
+# model_server_params.name: atom_site
+# model_server_params.value: {"label_asym_id":"E","auth_seq_id":201}
+
+# model_server_stats.io_time_ms: 25
+# model_server_stats.parse_time_ms: 5
+# model_server_stats.create_model_time_ms: 4
+# model_server_stats.query_time_ms: 201
+# model_server_stats.encode_time_ms: 0
+# model_server_stats.element_count: 20
+
+@<TRIPOS>MOLECULE
+GEN
+20 22 1
+****
+****
+
+@<TRIPOS>ATOM
+1 C1 33.321 35.555 37.783 C.ar 1 GEN 0.000
+2 C2 33.644 36.373 36.662 C.ar 1 GEN 0.000
+3 O2 34.922 36.198 36.129 O.3 1 GEN 0.000
+4 C3 32.759 37.333 36.077 C.ar 1 GEN 0.000
+5 C4 31.462 37.517 36.618 C.ar 1 GEN 0.000
+6 O4 30.583 38.434 36.084 O.3 1 GEN 0.000
+7 C5 31.097 36.690 37.771 C.ar 1 GEN 0.000
+8 C6 29.740 36.847 38.376 C.ar 1 GEN 0.000
+9 O6 28.897 37.643 37.955 O.2 1 GEN 0.000
+10 C7 29.479 35.937 39.569 C.ar 1 GEN 0.000
+11 C8 30.449 35.034 40.041 C.ar 1 GEN 0.000
+12 O9 31.731 34.908 39.443 O.3 1 GEN 0.000
+13 C10 32.006 35.718 38.356 C.ar 1 GEN 0.000
+14 C11 28.139 35.919 40.368 C.ar 1 GEN 0.000
+15 C12 26.893 36.098 39.663 C.ar 1 GEN 0.000
+16 C13 25.719 36.071 40.470 C.ar 1 GEN 0.000
+17 C14 25.825 35.877 41.857 C.ar 1 GEN 0.000
+18 O14 24.618 35.864 42.551 O.3 1 GEN 0.000
+19 C15 27.046 35.694 42.599 C.ar 1 GEN 0.000
+20 C16 28.259 35.720 41.798 C.ar 1 GEN 0.000
+@<TRIPOS>BOND
+1 1 2 ar
+2 1 13 ar
+3 2 3 1
+4 2 4 ar
+5 4 5 ar
+6 5 6 1
+7 5 7 ar
+8 7 8 ar
+9 7 13 ar
+10 8 9 2
+11 8 10 ar
+12 10 11 ar
+13 10 14 ar
+14 11 12 ar
+15 12 13 ar
+16 14 15 ar
+17 14 20 ar
+18 15 16 ar
+19 16 17 ar
+20 17 18 1
+21 17 19 ar
+22 19 20 ar
+@<TRIPOS>SUBSTRUCTURE
+1 GEN 1
+# Name: AIT
+# Created by ModelServer 0.9.13
+
+# model_server_result.job_id: rGyVxLgZMU0OVaZMB0He2w
+# model_server_result.datetime_utc: 2026-11-05 12:41:24
+# model_server_result.server_version: 0.9.13
+# model_server_result.query_name: ligand
+# model_server_result.source_id: pdb-bcif
+# model_server_result.entry_id: 1xpc
+
+# model_server_params.name: atom_site
+# model_server_params.value: {"label_asym_id":"B","auth_seq_id":600}
+
+# model_server_stats.io_time_ms: 2
+# model_server_stats.parse_time_ms: 4
+# model_server_stats.create_model_time_ms: 2
+# model_server_stats.query_time_ms: 171
+# model_server_stats.encode_time_ms: 0
+# model_server_stats.element_count: 33
+
+@<TRIPOS>MOLECULE
+AIT
+33 37 1
+****
+****
+
+@<TRIPOS>ATOM
+1 C1 31.236 -0.323 28.913 C.3 1 AIT 0.000
+2 C2 31.356 -1.721 28.289 C.3 1 AIT 0.000
+3 O3 30.137 -2.473 28.544 O.3 1 AIT 0.000
+4 C4 28.957 -1.955 28.101 C.ar 1 AIT 0.000
+5 C5 28.057 -2.972 27.751 C.ar 1 AIT 0.000
+6 C6 26.816 -2.612 27.291 C.ar 1 AIT 0.000
+7 C7 26.485 -1.249 27.158 C.ar 1 AIT 0.000
+8 O8 25.224 -1.018 26.753 O.3 1 AIT 0.000
+9 C9 27.386 -0.250 27.554 C.ar 1 AIT 0.000
+10 C10 28.676 -0.587 27.984 C.ar 1 AIT 0.000
+11 S11 29.720 0.483 28.356 S.3 1 AIT 0.000
+12 C12 32.545 0.383 28.630 C.ar 1 AIT 0.000
+13 C13 32.740 1.243 27.538 C.ar 1 AIT 0.000
+14 C14 33.997 1.825 27.360 C.ar 1 AIT 0.000
+15 C15 35.061 1.584 28.253 C.ar 1 AIT 0.000
+16 O16 36.277 2.150 28.098 O.3 1 AIT 0.000
+17 C17 34.861 0.737 29.356 C.ar 1 AIT 0.000
+18 C18 33.591 0.175 29.528 C.ar 1 AIT 0.000
+19 C19 31.705 -1.873 26.820 C.ar 1 AIT 0.000
+20 C20 32.608 -2.871 26.435 C.ar 1 AIT 0.000
+21 C21 32.989 -3.136 25.101 C.ar 1 AIT 0.000
+22 C22 32.495 -2.305 24.090 C.ar 1 AIT 0.000
+23 C23 31.595 -1.290 24.458 C.ar 1 AIT 0.000
+24 C24 31.188 -1.092 25.767 C.ar 1 AIT 0.000
+25 O25 32.788 -2.467 22.787 O.3 1 AIT 0.000
+26 C26 33.298 -3.729 22.321 C.3 1 AIT 0.000
+27 C27 33.697 -3.668 20.822 C.3 1 AIT 0.000
+28 C28 34.626 -4.843 20.606 C.3 1 AIT 0.000
+29 N29 32.571 -3.881 19.896 N.3 1 AIT 0.000
+30 C30 32.706 -3.184 18.588 C.3 1 AIT 0.000
+31 C31 31.264 -2.908 18.105 C.3 1 AIT 0.000
+32 C32 30.374 -3.451 19.222 C.3 1 AIT 0.000
+33 C33 31.325 -3.359 20.448 C.3 1 AIT 0.000
+@<TRIPOS>BOND
+1 1 2 1
+2 1 11 1
+3 1 12 1
+4 2 3 1
+5 2 19 1
+6 3 4 1
+7 4 5 ar
+8 4 10 ar
+9 5 6 ar
+10 6 7 ar
+11 7 8 1
+12 7 9 ar
+13 9 10 ar
+14 10 11 1
+15 12 13 ar
+16 12 18 ar
+17 13 14 ar
+18 14 15 ar
+19 15 16 1
+20 15 17 ar
+21 17 18 ar
+22 19 20 ar
+23 19 24 ar
+24 20 21 ar
+25 21 22 ar
+26 22 23 ar
+27 22 25 1
+28 23 24 ar
+29 25 26 1
+30 26 27 1
+31 27 28 1
+32 27 29 1
+33 29 30 1
+34 29 33 1
+35 30 31 1
+36 31 32 1
+37 32 33 1
+@<TRIPOS>SUBSTRUCTURE
+1 AIT 1
+# Name: C3D
+# Created by ModelServer 0.9.13
+
+# model_server_result.job_id: 0TmzLI-9q_A_9GJ29cK_8A
+# model_server_result.datetime_utc: 2026-11-05 12:46:36
+# model_server_result.server_version: 0.9.13
+# model_server_result.query_name: ligand
+# model_server_result.source_id: pdb-bcif
+# model_server_result.entry_id: 2ouz
+
+# model_server_params.name: atom_site
+# model_server_params.value: {"label_asym_id":"B","auth_seq_id":999}
+
+# model_server_stats.io_time_ms: 2
+# model_server_stats.parse_time_ms: 6
+# model_server_stats.create_model_time_ms: 2
+# model_server_stats.query_time_ms: 342
+# model_server_stats.encode_time_ms: 0
+# model_server_stats.element_count: 31
+
+@<TRIPOS>MOLECULE
+C3D
+31 35 1
+****
+****
+
+@<TRIPOS>ATOM
+1 C1 30.613 -1.214 27.636 C.3 1 C3D 0.000
+2 C2 31.104 0.165 28.234 C.3 1 C3D 0.000
+3 C3 30.318 1.364 27.631 C.3 1 C3D 0.000
+4 C4 28.831 1.277 27.985 C.3 1 C3D 0.000
+5 C5 28.272 -0.107 27.653 C.ar 1 C3D 0.000
+6 C6 26.913 -0.204 27.405 C.ar 1 C3D 0.000
+7 C7 26.340 -1.448 27.103 C.ar 1 C3D 0.000
+8 C8 27.121 -2.580 27.035 C.ar 1 C3D 0.000
+9 C9 28.474 -2.491 27.290 C.ar 1 C3D 0.000
+10 C10 29.071 -1.262 27.602 C.ar 1 C3D 0.000
+11 C11 32.634 0.300 28.150 C.ar 1 C3D 0.000
+12 C12 33.436 -0.090 29.184 C.ar 1 C3D 0.000
+13 C13 34.824 0.056 29.109 C.ar 1 C3D 0.000
+14 C14 35.442 0.620 28.039 C.ar 1 C3D 0.000
+15 C15 34.643 1.041 27.010 C.ar 1 C3D 0.000
+16 C16 33.273 0.884 27.061 C.ar 1 C3D 0.000
+17 C17 31.243 -1.619 26.288 C.ar 1 C3D 0.000
+18 C18 30.856 -1.022 25.100 C.ar 1 C3D 0.000
+19 C19 31.402 -1.408 23.925 C.ar 1 C3D 0.000
+20 C20 32.410 -2.343 23.908 C.ar 1 C3D 0.000
+21 C21 32.822 -2.930 25.100 C.ar 1 C3D 0.000
+22 C22 32.259 -2.544 26.292 C.ar 1 C3D 0.000
+23 C24 33.577 -3.853 22.369 C.3 1 C3D 0.000
+24 C25 33.930 -3.811 20.891 C.3 1 C3D 0.000
+25 C27 33.267 -4.536 18.611 C.3 1 C3D 0.000
+26 C28 32.428 -3.785 17.560 C.3 1 C3D 0.000
+27 O7 24.999 -1.535 26.836 O.3 1 C3D 0.000
+28 O23 32.965 -2.641 22.668 O.3 1 C3D 0.000
+29 N26 32.820 -4.131 19.978 N.3 1 C3D 0.000
+30 C29 31.235 -3.232 18.362 C.3 1 C3D 0.000
+31 C30 31.951 -2.952 19.709 C.3 1 C3D 0.000
+@<TRIPOS>BOND
+1 1 17 1
+2 1 10 1
+3 1 2 1
+4 2 3 1
+5 2 11 1
+6 3 4 1
+7 4 5 1
+8 5 6 ar
+9 5 10 ar
+10 6 7 ar
+11 7 27 1
+12 7 8 ar
+13 8 9 ar
+14 9 10 ar
+15 11 16 ar
+16 11 12 ar
+17 12 13 ar
+18 13 14 ar
+19 14 15 ar
+20 15 16 ar
+21 17 18 ar
+22 17 22 ar
+23 18 19 ar
+24 19 20 ar
+25 20 28 1
+26 20 21 ar
+27 21 22 ar
+28 23 24 1
+29 23 28 1
+30 24 29 1
+31 25 26 1
+32 25 29 1
+33 26 30 1
+34 29 31 1
+35 30 31 1
+@<TRIPOS>SUBSTRUCTURE
+1 C3D 1
+# Name: F3D
+# Created by ModelServer 0.9.13
+
+# model_server_result.job_id: QRZC8y9tz5WqDs5xFurEJw
+# model_server_result.datetime_utc: 2026-11-05 12:41:36
+# model_server_result.server_version: 0.9.13
+# model_server_result.query_name: ligand
+# model_server_result.source_id: pdb-bcif
+# model_server_result.entry_id: 6chz
+
+# model_server_params.name: atom_site
+# model_server_params.value: {"label_asym_id":"B","auth_seq_id":601}
+
+# model_server_stats.io_time_ms: 3
+# model_server_stats.parse_time_ms: 6
+# model_server_stats.create_model_time_ms: 2
+# model_server_stats.query_time_ms: 175
+# model_server_stats.encode_time_ms: 0
+# model_server_stats.element_count: 37
+
+@<TRIPOS>MOLECULE
+F3D
+37 40 1
+****
+****
+
+@<TRIPOS>ATOM
+1 C1 -30.969 0.261 -29.281 C.3 1 F3D 0.000
+2 N1 -33.150 -8.506 -15.907 N.am 1 F3D 0.000
+3 C2 -31.642 -0.152 -27.971 C.2 1 F3D 0.000
+4 N2 -25.346 -1.742 -26.852 N.ar 1 F3D 0.000
+5 C3 -30.912 -0.988 -26.965 C.2 1 F3D 0.000
+6 C4 -31.576 -1.571 -25.821 C.ar 1 F3D 0.000
+7 C5 -32.716 -2.337 -26.013 C.ar 1 F3D 0.000
+8 O1 -32.854 -6.268 -16.506 O.2 1 F3D 0.000
+9 C6 -33.346 -2.941 -24.953 C.ar 1 F3D 0.000
+10 C7 -32.931 -2.828 -23.606 C.ar 1 F3D 0.000
+11 C8 -33.968 -2.912 -21.319 C.3 1 F3D 0.000
+12 C9 -33.880 -3.971 -20.201 C.3 1 F3D 0.000
+13 C10 -34.922 -6.016 -19.257 C.3 1 F3D 0.000
+14 C11 -35.353 -5.877 -17.770 C.3 1 F3D 0.000
+15 C12 -35.049 -7.181 -16.963 C.3 1 F3D 0.000
+16 C13 -33.572 -7.280 -16.439 C.2 1 F3D 0.000
+17 C14 -31.757 -8.670 -15.418 C.3 1 F3D 0.000
+18 C15 -34.052 -9.678 -15.845 C.3 1 F3D 0.000
+19 N -35.113 -4.767 -20.077 N.3 1 F3D 0.000
+20 O -33.628 -3.438 -22.615 O.3 1 F3D 0.000
+21 C16 -31.808 -2.034 -23.361 C.ar 1 F3D 0.000
+22 C17 -31.193 -1.439 -24.491 C.ar 1 F3D 0.000
+23 C -30.637 1.765 -29.329 C.3 1 F3D 0.000
+24 C25 -32.998 0.213 -27.849 C.ar 1 F3D 0.000
+25 C30 -33.365 0.936 -26.711 C.ar 1 F3D 0.000
+26 C29 -34.690 1.361 -26.567 C.ar 1 F3D 0.000
+27 C28 -35.675 1.129 -27.541 C.ar 1 F3D 0.000
+28 C27 -35.325 0.411 -28.672 C.ar 1 F3D 0.000
+29 C26 -33.978 -0.006 -28.824 C.ar 1 F3D 0.000
+30 C18 -29.505 -1.235 -27.034 C.ar 1 F3D 0.000
+31 C24 -28.537 -0.271 -27.221 C.ar 1 F3D 0.000
+32 C23 -27.228 -0.570 -27.214 C.ar 1 F3D 0.000
+33 C22 -26.193 0.220 -27.386 C.ar 1 F3D 0.000
+34 N3 -25.057 -0.443 -27.233 N.ar 1 F3D 0.000
+35 C21 -26.714 -1.801 -26.875 C.ar 1 F3D 0.000
+36 C20 -27.612 -2.770 -26.637 C.ar 1 F3D 0.000
+37 C19 -28.975 -2.498 -26.666 C.ar 1 F3D 0.000
+@<TRIPOS>BOND
+1 1 23 1
+2 1 3 1
+3 2 16 1
+4 2 18 1
+5 2 17 1
+6 3 24 1
+7 3 5 2
+8 4 34 ar
+9 4 35 ar
+10 5 30 1
+11 5 6 1
+12 6 7 ar
+13 6 22 ar
+14 7 9 ar
+15 8 16 2
+16 9 10 ar
+17 10 21 ar
+18 10 20 1
+19 11 20 1
+20 11 12 1
+21 12 19 1
+22 13 19 1
+23 13 14 1
+24 14 15 1
+25 15 16 1
+26 21 22 ar
+27 24 29 ar
+28 24 25 ar
+29 25 26 ar
+30 26 27 ar
+31 27 28 ar
+32 28 29 ar
+33 30 31 ar
+34 30 37 ar
+35 31 32 ar
+36 32 33 ar
+37 32 35 ar
+38 33 34 ar
+39 35 36 ar
+40 36 37 ar
+@<TRIPOS>SUBSTRUCTURE
+1 F3D 1
